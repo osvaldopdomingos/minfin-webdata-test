@@ -1,0 +1,1602 @@
+[
+    {
+        "nome": "Manuel António Mendes",
+        "endereco": "Rua Nova, nº 665",
+        "cidade": "Sumbe",
+        "provincia": "Malanje",
+        "valor_usd": 150.27,
+        "valor_aoa": 124724.1
+    },
+    {
+        "nome": "Nelson Lima Correia",
+        "endereco": "Rua das Acácias, nº 927",
+        "cidade": "Lubango",
+        "provincia": "Benguela",
+        "valor_usd": 177.65,
+        "valor_aoa": 147449.5
+    },
+    {
+        "nome": "Carlos Alberto Batista",
+        "endereco": "Rua do Mercado, nº 663",
+        "cidade": "Cuito",
+        "provincia": "Luanda",
+        "valor_usd": 196.87,
+        "valor_aoa": 163402.1
+    },
+    {
+        "nome": "Sara Monteiro Domingos",
+        "endereco": "Rua do Mercado, nº 641",
+        "cidade": "Caxito",
+        "provincia": "Huambo",
+        "valor_usd": 124.79,
+        "valor_aoa": 103575.7
+    },
+    {
+        "nome": "Joaquim Dias Tavares",
+        "endereco": "Travessa do Comércio, nº 318",
+        "cidade": "Huambo",
+        "provincia": "Huíla",
+        "valor_usd": 159.08,
+        "valor_aoa": 132036.4
+    },
+    {
+        "nome": "Sara Monteiro Paulo",
+        "endereco": "Avenida da Paz, nº 583",
+        "cidade": "Lobito",
+        "provincia": "Malanje",
+        "valor_usd": 123.26,
+        "valor_aoa": 102305.8
+    },
+    {
+        "nome": "Luísa Correia Lima",
+        "endereco": "Travessa do Comércio, nº 228",
+        "cidade": "Lubango",
+        "provincia": "Bié",
+        "valor_usd": 195.12,
+        "valor_aoa": 161949.6
+    },
+    {
+        "nome": "Marta de Souza Dias",
+        "endereco": "Rua do Mercado, nº 285",
+        "cidade": "N'dalatando",
+        "provincia": "Benguela",
+        "valor_usd": 138.58,
+        "valor_aoa": 115021.4
+    },
+    {
+        "nome": "Sérgio Miguel Alberto",
+        "endereco": "Bairro Popular, nº 734",
+        "cidade": "Menongue",
+        "provincia": "Huambo",
+        "valor_usd": 191.62,
+        "valor_aoa": 159044.6
+    },
+    {
+        "nome": "João Paulo Alberto",
+        "endereco": "Rua das Acácias, nº 705",
+        "cidade": "Ondjiva",
+        "provincia": "Bengo",
+        "valor_usd": 148.46,
+        "valor_aoa": 123221.8
+    },
+    {
+        "nome": "Fátima Alves Paulo",
+        "endereco": "Avenida Marginal, nº 759",
+        "cidade": "Namibe",
+        "provincia": "Zaire",
+        "valor_usd": 181.06,
+        "valor_aoa": 150279.8
+    },
+    {
+        "nome": "André Vicente Paulo",
+        "endereco": "Avenida da Paz, nº 850",
+        "cidade": "Luanda",
+        "provincia": "Cuando Cubango",
+        "valor_usd": 101.74,
+        "valor_aoa": 84444.2
+    },
+    {
+        "nome": "José Silva Ramos",
+        "endereco": "Rua do Mercado, nº 953",
+        "cidade": "Malanje",
+        "provincia": "Cuanza Sul",
+        "valor_usd": 119.3,
+        "valor_aoa": 99019.0
+    },
+    {
+        "nome": "Fátima Alves Batista",
+        "endereco": "Avenida Marginal, nº 942",
+        "cidade": "Ondjiva",
+        "provincia": "Namibe",
+        "valor_usd": 130.53,
+        "valor_aoa": 108339.9
+    },
+    {
+        "nome": "Pedro Domingos Dias",
+        "endereco": "Travessa do Sol, nº 279",
+        "cidade": "Ondjiva",
+        "provincia": "Cunene",
+        "valor_usd": 174.9,
+        "valor_aoa": 145167.0
+    },
+    {
+        "nome": "André Vicente Bento",
+        "endereco": "Bairro Central, nº 87",
+        "cidade": "Namibe",
+        "provincia": "Uíge",
+        "valor_usd": 191.37,
+        "valor_aoa": 158837.1
+    },
+    {
+        "nome": "Isabel Mendes Paulo",
+        "endereco": "Bairro Popular, nº 715",
+        "cidade": "Cuito",
+        "provincia": "Benguela",
+        "valor_usd": 133.24,
+        "valor_aoa": 110589.2
+    },
+    {
+        "nome": "Sara Monteiro Correia",
+        "endereco": "Rua Nova, nº 597",
+        "cidade": "Malanje",
+        "provincia": "Bié",
+        "valor_usd": 155.3,
+        "valor_aoa": 128899.0
+    },
+    {
+        "nome": "Fernanda Cardoso Fernandes",
+        "endereco": "Rua dos Pioneiros, nº 856",
+        "cidade": "Saurimo",
+        "provincia": "Huambo",
+        "valor_usd": 152.24,
+        "valor_aoa": 126359.2
+    },
+    {
+        "nome": "Fátima Alves Francisco",
+        "endereco": "Rua dos Pioneiros, nº 32",
+        "cidade": "Benguela",
+        "provincia": "Malanje",
+        "valor_usd": 183.67,
+        "valor_aoa": 152446.1
+    },
+    {
+        "nome": "Helena Ramos Souza",
+        "endereco": "Rua Principal, nº 756",
+        "cidade": "Namibe",
+        "provincia": "Namibe",
+        "valor_usd": 118.11,
+        "valor_aoa": 98031.3
+    },
+    {
+        "nome": "José Silva Bento",
+        "endereco": "Bairro Popular, nº 854",
+        "cidade": "Uíge",
+        "provincia": "Lunda Sul",
+        "valor_usd": 186.57,
+        "valor_aoa": 154853.1
+    },
+    {
+        "nome": "Alberto Simão Fernandes",
+        "endereco": "Rua das Acácias, nº 684",
+        "cidade": "Lobito",
+        "provincia": "Huíla",
+        "valor_usd": 168.16,
+        "valor_aoa": 139572.8
+    },
+    {
+        "nome": "José Silva Alberto",
+        "endereco": "Rua Principal, nº 133",
+        "cidade": "Benguela",
+        "provincia": "Huambo",
+        "valor_usd": 128.11,
+        "valor_aoa": 106331.3
+    },
+    {
+        "nome": "Francisco Bento Correia",
+        "endereco": "Rua do Mercado, nº 967",
+        "cidade": "Ondjiva",
+        "provincia": "Huambo",
+        "valor_usd": 134.4,
+        "valor_aoa": 111552.0
+    },
+    {
+        "nome": "Sérgio Miguel Mendes",
+        "endereco": "Bairro Popular, nº 494",
+        "cidade": "Caxito",
+        "provincia": "Cunene",
+        "valor_usd": 103.96,
+        "valor_aoa": 86286.8
+    },
+    {
+        "nome": "Pedro Domingos Domingos",
+        "endereco": "Travessa do Sol, nº 184",
+        "cidade": "Caxito",
+        "provincia": "Malanje",
+        "valor_usd": 125.31,
+        "valor_aoa": 104007.3
+    },
+    {
+        "nome": "Marta de Souza Monteiro",
+        "endereco": "Travessa do Sol, nº 930",
+        "cidade": "Lubango",
+        "provincia": "Huíla",
+        "valor_usd": 172.4,
+        "valor_aoa": 143092.0
+    },
+    {
+        "nome": "Sara Monteiro Ramos",
+        "endereco": "Travessa do Comércio, nº 654",
+        "cidade": "Ondjiva",
+        "provincia": "Benguela",
+        "valor_usd": 108.84,
+        "valor_aoa": 90337.2
+    },
+    {
+        "nome": "Fátima Alves Vicente",
+        "endereco": "Travessa do Comércio, nº 978",
+        "cidade": "Sumbe",
+        "provincia": "Huíla",
+        "valor_usd": 199.68,
+        "valor_aoa": 165734.4
+    },
+    {
+        "nome": "Paulo Batista Fernandes",
+        "endereco": "Rua das Acácias, nº 611",
+        "cidade": "Menongue",
+        "provincia": "Cuando Cubango",
+        "valor_usd": 114.16,
+        "valor_aoa": 94752.8
+    },
+    {
+        "nome": "Carlos Alberto Bento",
+        "endereco": "Rua Principal, nº 187",
+        "cidade": "Lobito",
+        "provincia": "Cuanza Sul",
+        "valor_usd": 121.49,
+        "valor_aoa": 100836.7
+    },
+    {
+        "nome": "Pedro Domingos Vicente",
+        "endereco": "Travessa do Comércio, nº 402",
+        "cidade": "Huambo",
+        "provincia": "Huíla",
+        "valor_usd": 160.97,
+        "valor_aoa": 133605.1
+    },
+    {
+        "nome": "André Vicente Francisco",
+        "endereco": "Rua dos Pioneiros, nº 727",
+        "cidade": "Namibe",
+        "provincia": "Zaire",
+        "valor_usd": 187.52,
+        "valor_aoa": 155641.6
+    },
+    {
+        "nome": "Manuel António Bento",
+        "endereco": "Rua dos Pioneiros, nº 824",
+        "cidade": "Ondjiva",
+        "provincia": "Cuanza Sul",
+        "valor_usd": 113.95,
+        "valor_aoa": 94578.5
+    },
+    {
+        "nome": "Sara Monteiro Correia",
+        "endereco": "Rua do Mercado, nº 793",
+        "cidade": "Sumbe",
+        "provincia": "Cuanza Norte",
+        "valor_usd": 147.54,
+        "valor_aoa": 122458.2
+    },
+    {
+        "nome": "José Silva Domingos",
+        "endereco": "Rua dos Pioneiros, nº 475",
+        "cidade": "Cuito",
+        "provincia": "Malanje",
+        "valor_usd": 148.29,
+        "valor_aoa": 123080.7
+    },
+    {
+        "nome": "Fernanda Cardoso Joaquim",
+        "endereco": "Rua do Mercado, nº 658",
+        "cidade": "Caxito",
+        "provincia": "Cunene",
+        "valor_usd": 178.75,
+        "valor_aoa": 148362.5
+    },
+    {
+        "nome": "Sara Monteiro Alberto",
+        "endereco": "Avenida Marginal, nº 635",
+        "cidade": "Saurimo",
+        "provincia": "Namibe",
+        "valor_usd": 172.22,
+        "valor_aoa": 142942.6
+    },
+    {
+        "nome": "Isabel Mendes Ramos",
+        "endereco": "Rua Principal, nº 597",
+        "cidade": "Malanje",
+        "provincia": "Uíge",
+        "valor_usd": 199.14,
+        "valor_aoa": 165286.2
+    },
+    {
+        "nome": "Isabel Mendes Souza",
+        "endereco": "Bairro Popular, nº 580",
+        "cidade": "Uíge",
+        "provincia": "Cuanza Norte",
+        "valor_usd": 124.05,
+        "valor_aoa": 102961.5
+    },
+    {
+        "nome": "Raquel Tavares Ramos",
+        "endereco": "Travessa do Comércio, nº 973",
+        "cidade": "Saurimo",
+        "provincia": "Bié",
+        "valor_usd": 117.01,
+        "valor_aoa": 97118.3
+    },
+    {
+        "nome": "Alberto Simão António",
+        "endereco": "Rua Principal, nº 561",
+        "cidade": "Lubango",
+        "provincia": "Zaire",
+        "valor_usd": 112.7,
+        "valor_aoa": 93541.0
+    },
+    {
+        "nome": "Marta de Souza Bento",
+        "endereco": "Avenida da Paz, nº 274",
+        "cidade": "Lubango",
+        "provincia": "Zaire",
+        "valor_usd": 128.79,
+        "valor_aoa": 106895.7
+    },
+    {
+        "nome": "Joaquim Dias Gomes",
+        "endereco": "Rua Principal, nº 344",
+        "cidade": "Huambo",
+        "provincia": "Bié",
+        "valor_usd": 163.97,
+        "valor_aoa": 136095.1
+    },
+    {
+        "nome": "João Paulo Fernandes",
+        "endereco": "Rua do Mercado, nº 794",
+        "cidade": "Caxito",
+        "provincia": "Cuanza Norte",
+        "valor_usd": 197.28,
+        "valor_aoa": 163742.4
+    },
+    {
+        "nome": "Alberto Simão Monteiro",
+        "endereco": "Avenida da Paz, nº 631",
+        "cidade": "Lobito",
+        "provincia": "Cunene",
+        "valor_usd": 153.31,
+        "valor_aoa": 127247.3
+    },
+    {
+        "nome": "José Silva Mendes",
+        "endereco": "Bairro Popular, nº 214",
+        "cidade": "Namibe",
+        "provincia": "Lunda Sul",
+        "valor_usd": 168.24,
+        "valor_aoa": 139639.2
+    },
+    {
+        "nome": "Helena Ramos Lima",
+        "endereco": "Travessa do Sol, nº 318",
+        "cidade": "Lobito",
+        "provincia": "Huíla",
+        "valor_usd": 182.92,
+        "valor_aoa": 151823.6
+    },
+    {
+        "nome": "Manuel António Vicente",
+        "endereco": "Rua das Acácias, nº 315",
+        "cidade": "Saurimo",
+        "provincia": "Huambo",
+        "valor_usd": 123.86,
+        "valor_aoa": 102803.8
+    },
+    {
+        "nome": "Fátima Alves Batista",
+        "endereco": "Avenida Marginal, nº 667",
+        "cidade": "Namibe",
+        "provincia": "Lunda Sul",
+        "valor_usd": 139.93,
+        "valor_aoa": 116141.9
+    },
+    {
+        "nome": "Carlos Alberto Lima",
+        "endereco": "Rua Nova, nº 659",
+        "cidade": "Saurimo",
+        "provincia": "Bengo",
+        "valor_usd": 154.38,
+        "valor_aoa": 128135.4
+    },
+    {
+        "nome": "Marta de Souza Dias",
+        "endereco": "Bairro Popular, nº 205",
+        "cidade": "Sumbe",
+        "provincia": "Malanje",
+        "valor_usd": 155.03,
+        "valor_aoa": 128674.9
+    },
+    {
+        "nome": "Carlos Alberto Domingos",
+        "endereco": "Rua do Mercado, nº 470",
+        "cidade": "Malanje",
+        "provincia": "Cuanza Sul",
+        "valor_usd": 186.54,
+        "valor_aoa": 154828.2
+    },
+    {
+        "nome": "Raquel Tavares Fernandes",
+        "endereco": "Travessa do Comércio, nº 82",
+        "cidade": "Menongue",
+        "provincia": "Benguela",
+        "valor_usd": 148.45,
+        "valor_aoa": 123213.5
+    },
+    {
+        "nome": "Teresa Gomes Miguel",
+        "endereco": "Travessa do Comércio, nº 610",
+        "cidade": "Caxito",
+        "provincia": "Cuanza Norte",
+        "valor_usd": 175.57,
+        "valor_aoa": 145723.1
+    },
+    {
+        "nome": "Ana Joaquim Mendes",
+        "endereco": "Travessa do Comércio, nº 160",
+        "cidade": "Malanje",
+        "provincia": "Zaire",
+        "valor_usd": 149.06,
+        "valor_aoa": 123719.8
+    },
+    {
+        "nome": "Manuel António Ramos",
+        "endereco": "Avenida Marginal, nº 59",
+        "cidade": "Huambo",
+        "provincia": "Cuanza Norte",
+        "valor_usd": 168.31,
+        "valor_aoa": 139697.3
+    },
+    {
+        "nome": "Joaquim Dias Vicente",
+        "endereco": "Bairro Popular, nº 653",
+        "cidade": "Benguela",
+        "provincia": "Luanda",
+        "valor_usd": 120.42,
+        "valor_aoa": 99948.6
+    },
+    {
+        "nome": "Nelson Lima Simão",
+        "endereco": "Rua do Mercado, nº 835",
+        "cidade": "N'dalatando",
+        "provincia": "Luanda",
+        "valor_usd": 164.3,
+        "valor_aoa": 136369.0
+    },
+    {
+        "nome": "Rui Francisco Mendes",
+        "endereco": "Travessa do Comércio, nº 408",
+        "cidade": "Saurimo",
+        "provincia": "Huíla",
+        "valor_usd": 103.15,
+        "valor_aoa": 85614.5
+    },
+    {
+        "nome": "Alberto Simão Gomes",
+        "endereco": "Travessa do Sol, nº 659",
+        "cidade": "Uíge",
+        "provincia": "Cuanza Sul",
+        "valor_usd": 193.0,
+        "valor_aoa": 160190.0
+    },
+    {
+        "nome": "Carlos Alberto Gomes",
+        "endereco": "Avenida da Paz, nº 280",
+        "cidade": "Menongue",
+        "provincia": "Huíla",
+        "valor_usd": 141.38,
+        "valor_aoa": 117345.4
+    },
+    {
+        "nome": "João Paulo Joaquim",
+        "endereco": "Avenida da Paz, nº 584",
+        "cidade": "Sumbe",
+        "provincia": "Bengo",
+        "valor_usd": 174.32,
+        "valor_aoa": 144685.6
+    },
+    {
+        "nome": "Fernanda Cardoso Miguel",
+        "endereco": "Travessa do Comércio, nº 533",
+        "cidade": "Luanda",
+        "provincia": "Cunene",
+        "valor_usd": 105.22,
+        "valor_aoa": 87332.6
+    },
+    {
+        "nome": "Carlos Alberto Correia",
+        "endereco": "Rua do Mercado, nº 399",
+        "cidade": "Uíge",
+        "provincia": "Uíge",
+        "valor_usd": 197.53,
+        "valor_aoa": 163949.9
+    },
+    {
+        "nome": "Alberto Simão Batista",
+        "endereco": "Avenida Marginal, nº 743",
+        "cidade": "Uíge",
+        "provincia": "Bengo",
+        "valor_usd": 104.27,
+        "valor_aoa": 86544.1
+    },
+    {
+        "nome": "Pedro Domingos Gomes",
+        "endereco": "Rua Principal, nº 383",
+        "cidade": "Menongue",
+        "provincia": "Uíge",
+        "valor_usd": 131.81,
+        "valor_aoa": 109402.3
+    },
+    {
+        "nome": "Rui Francisco Batista",
+        "endereco": "Rua dos Pioneiros, nº 925",
+        "cidade": "Benguela",
+        "provincia": "Uíge",
+        "valor_usd": 183.69,
+        "valor_aoa": 152462.7
+    },
+    {
+        "nome": "Helena Ramos Souza",
+        "endereco": "Rua Principal, nº 16",
+        "cidade": "Luanda",
+        "provincia": "Cuando Cubango",
+        "valor_usd": 150.79,
+        "valor_aoa": 125155.7
+    },
+    {
+        "nome": "Fernanda Cardoso Dias",
+        "endereco": "Rua do Mercado, nº 130",
+        "cidade": "N'dalatando",
+        "provincia": "Benguela",
+        "valor_usd": 102.09,
+        "valor_aoa": 84734.7
+    },
+    {
+        "nome": "José Silva Ramos",
+        "endereco": "Avenida da Paz, nº 659",
+        "cidade": "Ondjiva",
+        "provincia": "Lunda Sul",
+        "valor_usd": 178.81,
+        "valor_aoa": 148412.3
+    },
+    {
+        "nome": "Joaquim Dias Miguel",
+        "endereco": "Travessa do Comércio, nº 810",
+        "cidade": "Sumbe",
+        "provincia": "Cuanza Norte",
+        "valor_usd": 198.6,
+        "valor_aoa": 164838.0
+    },
+    {
+        "nome": "Luísa Correia Tavares",
+        "endereco": "Rua dos Pioneiros, nº 921",
+        "cidade": "Uíge",
+        "provincia": "Cuando Cubango",
+        "valor_usd": 173.52,
+        "valor_aoa": 144021.6
+    },
+    {
+        "nome": "Helena Ramos Domingos",
+        "endereco": "Rua Nova, nº 344",
+        "cidade": "Cuito",
+        "provincia": "Cuando Cubango",
+        "valor_usd": 140.19,
+        "valor_aoa": 116357.7
+    },
+    {
+        "nome": "Maria Fernandes Miguel",
+        "endereco": "Travessa do Comércio, nº 988",
+        "cidade": "Benguela",
+        "provincia": "Cuanza Sul",
+        "valor_usd": 106.51,
+        "valor_aoa": 88403.3
+    },
+    {
+        "nome": "José Silva Silva",
+        "endereco": "Travessa do Comércio, nº 92",
+        "cidade": "Benguela",
+        "provincia": "Cunene",
+        "valor_usd": 105.17,
+        "valor_aoa": 87291.1
+    },
+    {
+        "nome": "Carlos Alberto Vicente",
+        "endereco": "Rua dos Pioneiros, nº 941",
+        "cidade": "Huambo",
+        "provincia": "Huambo",
+        "valor_usd": 120.05,
+        "valor_aoa": 99641.5
+    },
+    {
+        "nome": "Pedro Domingos Paulo",
+        "endereco": "Avenida Marginal, nº 157",
+        "cidade": "Sumbe",
+        "provincia": "Cuando Cubango",
+        "valor_usd": 109.42,
+        "valor_aoa": 90818.6
+    },
+    {
+        "nome": "Carlos Alberto Ramos",
+        "endereco": "Rua Principal, nº 354",
+        "cidade": "Ondjiva",
+        "provincia": "Namibe",
+        "valor_usd": 114.07,
+        "valor_aoa": 94678.1
+    },
+    {
+        "nome": "Ana Joaquim Paulo",
+        "endereco": "Rua das Acácias, nº 135",
+        "cidade": "Sumbe",
+        "provincia": "Cuanza Sul",
+        "valor_usd": 159.99,
+        "valor_aoa": 132791.7
+    },
+    {
+        "nome": "João Paulo Joaquim",
+        "endereco": "Rua das Acácias, nº 378",
+        "cidade": "Huambo",
+        "provincia": "Cunene",
+        "valor_usd": 177.15,
+        "valor_aoa": 147034.5
+    },
+    {
+        "nome": "Manuel António Vicente",
+        "endereco": "Avenida da Paz, nº 860",
+        "cidade": "Saurimo",
+        "provincia": "Lunda Sul",
+        "valor_usd": 187.61,
+        "valor_aoa": 155716.3
+    },
+    {
+        "nome": "Alberto Simão Alves",
+        "endereco": "Travessa do Sol, nº 669",
+        "cidade": "Namibe",
+        "provincia": "Cuando Cubango",
+        "valor_usd": 176.75,
+        "valor_aoa": 146702.5
+    },
+    {
+        "nome": "Nelson Lima Gomes",
+        "endereco": "Rua dos Pioneiros, nº 911",
+        "cidade": "Caxito",
+        "provincia": "Cuando Cubango",
+        "valor_usd": 175.26,
+        "valor_aoa": 145465.8
+    },
+    {
+        "nome": "João Paulo Mendes",
+        "endereco": "Rua Nova, nº 24",
+        "cidade": "N'dalatando",
+        "provincia": "Cuanza Norte",
+        "valor_usd": 185.8,
+        "valor_aoa": 154214.0
+    },
+    {
+        "nome": "Sara Monteiro Bento",
+        "endereco": "Rua das Acácias, nº 266",
+        "cidade": "Ondjiva",
+        "provincia": "Malanje",
+        "valor_usd": 132.13,
+        "valor_aoa": 109667.9
+    },
+    {
+        "nome": "João Paulo Tavares",
+        "endereco": "Avenida Marginal, nº 971",
+        "cidade": "Malanje",
+        "provincia": "Huíla",
+        "valor_usd": 123.72,
+        "valor_aoa": 102687.6
+    },
+    {
+        "nome": "Raquel Tavares Souza",
+        "endereco": "Rua do Mercado, nº 628",
+        "cidade": "Uíge",
+        "provincia": "Zaire",
+        "valor_usd": 188.5,
+        "valor_aoa": 156455.0
+    },
+    {
+        "nome": "Rui Francisco Correia",
+        "endereco": "Travessa do Comércio, nº 818",
+        "cidade": "Lobito",
+        "provincia": "Lunda Sul",
+        "valor_usd": 161.0,
+        "valor_aoa": 133630.0
+    },
+    {
+        "nome": "Joaquim Dias Joaquim",
+        "endereco": "Bairro Popular, nº 520",
+        "cidade": "Namibe",
+        "provincia": "Zaire",
+        "valor_usd": 133.02,
+        "valor_aoa": 110406.6
+    },
+    {
+        "nome": "Manuel António Alves",
+        "endereco": "Avenida Marginal, nº 72",
+        "cidade": "Malanje",
+        "provincia": "Cuando Cubango",
+        "valor_usd": 118.81,
+        "valor_aoa": 98612.3
+    },
+    {
+        "nome": "Teresa Gomes Miguel",
+        "endereco": "Avenida da Paz, nº 803",
+        "cidade": "Sumbe",
+        "provincia": "Namibe",
+        "valor_usd": 166.19,
+        "valor_aoa": 137937.7
+    },
+    {
+        "nome": "Sara Monteiro Bento",
+        "endereco": "Bairro Popular, nº 593",
+        "cidade": "N'dalatando",
+        "provincia": "Malanje",
+        "valor_usd": 124.66,
+        "valor_aoa": 103467.8
+    },
+    {
+        "nome": "Fátima Alves Paulo",
+        "endereco": "Travessa do Comércio, nº 555",
+        "cidade": "Lubango",
+        "provincia": "Huambo",
+        "valor_usd": 106.47,
+        "valor_aoa": 88370.1
+    },
+    {
+        "nome": "Sara Monteiro Francisco",
+        "endereco": "Travessa do Comércio, nº 97",
+        "cidade": "Lubango",
+        "provincia": "Uíge",
+        "valor_usd": 153.41,
+        "valor_aoa": 127330.3
+    },
+    {
+        "nome": "Marta de Souza Monteiro",
+        "endereco": "Bairro Central, nº 254",
+        "cidade": "Luanda",
+        "provincia": "Cuanza Norte",
+        "valor_usd": 174.24,
+        "valor_aoa": 144619.2
+    },
+    {
+        "nome": "José Silva Ramos",
+        "endereco": "Avenida da Paz, nº 267",
+        "cidade": "Benguela",
+        "provincia": "Huíla",
+        "valor_usd": 144.49,
+        "valor_aoa": 119926.7
+    },
+    {
+        "nome": "Joaquim Dias António",
+        "endereco": "Travessa do Sol, nº 505",
+        "cidade": "Namibe",
+        "provincia": "Cuando Cubango",
+        "valor_usd": 198.34,
+        "valor_aoa": 164622.2
+    },
+    {
+        "nome": "Maria Fernandes Bento",
+        "endereco": "Avenida da Paz, nº 736",
+        "cidade": "Lubango",
+        "provincia": "Namibe",
+        "valor_usd": 111.69,
+        "valor_aoa": 92702.7
+    },
+    {
+        "nome": "Rui Francisco Paulo",
+        "endereco": "Rua dos Pioneiros, nº 722",
+        "cidade": "Saurimo",
+        "provincia": "Malanje",
+        "valor_usd": 164.18,
+        "valor_aoa": 136269.4
+    },
+    {
+        "nome": "Isabel Mendes Cardoso",
+        "endereco": "Rua Nova, nº 955",
+        "cidade": "N'dalatando",
+        "provincia": "Uíge",
+        "valor_usd": 163.41,
+        "valor_aoa": 135630.3
+    },
+    {
+        "nome": "Manuel António Batista",
+        "endereco": "Travessa do Comércio, nº 843",
+        "cidade": "Namibe",
+        "provincia": "Cuanza Norte",
+        "valor_usd": 182.55,
+        "valor_aoa": 151516.5
+    },
+    {
+        "nome": "Ana Joaquim Souza",
+        "endereco": "Rua Principal, nº 647",
+        "cidade": "Menongue",
+        "provincia": "Cuanza Sul",
+        "valor_usd": 168.13,
+        "valor_aoa": 139547.9
+    },
+    {
+        "nome": "Fernanda Cardoso Miguel",
+        "endereco": "Rua Principal, nº 18",
+        "cidade": "Uíge",
+        "provincia": "Huíla",
+        "valor_usd": 109.37,
+        "valor_aoa": 90777.1
+    },
+    {
+        "nome": "Helena Ramos Gomes",
+        "endereco": "Rua das Acácias, nº 89",
+        "cidade": "Lobito",
+        "provincia": "Huíla",
+        "valor_usd": 151.74,
+        "valor_aoa": 125944.2
+    },
+    {
+        "nome": "Ana Joaquim Souza",
+        "endereco": "Bairro Popular, nº 714",
+        "cidade": "Uíge",
+        "provincia": "Cunene",
+        "valor_usd": 128.68,
+        "valor_aoa": 106804.4
+    },
+    {
+        "nome": "Teresa Gomes Cardoso",
+        "endereco": "Rua do Mercado, nº 773",
+        "cidade": "Luanda",
+        "provincia": "Uíge",
+        "valor_usd": 113.98,
+        "valor_aoa": 94603.4
+    },
+    {
+        "nome": "Luísa Correia Tavares",
+        "endereco": "Rua do Mercado, nº 975",
+        "cidade": "Uíge",
+        "provincia": "Benguela",
+        "valor_usd": 129.72,
+        "valor_aoa": 107667.6
+    },
+    {
+        "nome": "Sérgio Miguel Ramos",
+        "endereco": "Bairro Popular, nº 99",
+        "cidade": "Lubango",
+        "provincia": "Cuanza Sul",
+        "valor_usd": 191.19,
+        "valor_aoa": 158687.7
+    },
+    {
+        "nome": "Helena Ramos Fernandes",
+        "endereco": "Rua das Acácias, nº 462",
+        "cidade": "Huambo",
+        "provincia": "Malanje",
+        "valor_usd": 183.91,
+        "valor_aoa": 152645.3
+    },
+    {
+        "nome": "Marta de Souza Vicente",
+        "endereco": "Rua do Mercado, nº 365",
+        "cidade": "Malanje",
+        "provincia": "Cuando Cubango",
+        "valor_usd": 110.72,
+        "valor_aoa": 91897.6
+    },
+    {
+        "nome": "Alberto Simão Souza",
+        "endereco": "Avenida Marginal, nº 304",
+        "cidade": "Saurimo",
+        "provincia": "Cuanza Sul",
+        "valor_usd": 153.57,
+        "valor_aoa": 127463.1
+    },
+    {
+        "nome": "Helena Ramos Francisco",
+        "endereco": "Rua das Acácias, nº 361",
+        "cidade": "Malanje",
+        "provincia": "Cunene",
+        "valor_usd": 152.88,
+        "valor_aoa": 126890.4
+    },
+    {
+        "nome": "Manuel António Souza",
+        "endereco": "Travessa do Sol, nº 173",
+        "cidade": "Ondjiva",
+        "provincia": "Huambo",
+        "valor_usd": 107.77,
+        "valor_aoa": 89449.1
+    },
+    {
+        "nome": "Sérgio Miguel Dias",
+        "endereco": "Rua Nova, nº 834",
+        "cidade": "Namibe",
+        "provincia": "Bié",
+        "valor_usd": 181.99,
+        "valor_aoa": 151051.7
+    },
+    {
+        "nome": "Fátima Alves Mendes",
+        "endereco": "Rua Nova, nº 406",
+        "cidade": "Uíge",
+        "provincia": "Cuanza Norte",
+        "valor_usd": 152.03,
+        "valor_aoa": 126184.9
+    },
+    {
+        "nome": "Rui Francisco Simão",
+        "endereco": "Rua Principal, nº 481",
+        "cidade": "Saurimo",
+        "provincia": "Uíge",
+        "valor_usd": 117.94,
+        "valor_aoa": 97890.2
+    },
+    {
+        "nome": "Paulo Batista Silva",
+        "endereco": "Rua Principal, nº 738",
+        "cidade": "Menongue",
+        "provincia": "Zaire",
+        "valor_usd": 198.97,
+        "valor_aoa": 165145.1
+    },
+    {
+        "nome": "José Silva Simão",
+        "endereco": "Travessa do Comércio, nº 50",
+        "cidade": "Menongue",
+        "provincia": "Uíge",
+        "valor_usd": 147.92,
+        "valor_aoa": 122773.6
+    },
+    {
+        "nome": "Marta de Souza Gomes",
+        "endereco": "Bairro Popular, nº 430",
+        "cidade": "Cuito",
+        "provincia": "Bengo",
+        "valor_usd": 148.34,
+        "valor_aoa": 123122.2
+    },
+    {
+        "nome": "João Paulo Francisco",
+        "endereco": "Travessa do Comércio, nº 328",
+        "cidade": "Benguela",
+        "provincia": "Cuanza Sul",
+        "valor_usd": 118.39,
+        "valor_aoa": 98263.7
+    },
+    {
+        "nome": "Teresa Gomes Miguel",
+        "endereco": "Rua dos Pioneiros, nº 371",
+        "cidade": "Uíge",
+        "provincia": "Malanje",
+        "valor_usd": 112.91,
+        "valor_aoa": 93715.3
+    },
+    {
+        "nome": "Alberto Simão António",
+        "endereco": "Rua das Acácias, nº 755",
+        "cidade": "Menongue",
+        "provincia": "Malanje",
+        "valor_usd": 169.61,
+        "valor_aoa": 140776.3
+    },
+    {
+        "nome": "Pedro Domingos Bento",
+        "endereco": "Travessa do Sol, nº 339",
+        "cidade": "Ondjiva",
+        "provincia": "Malanje",
+        "valor_usd": 132.88,
+        "valor_aoa": 110290.4
+    },
+    {
+        "nome": "Helena Ramos Souza",
+        "endereco": "Travessa do Comércio, nº 573",
+        "cidade": "N'dalatando",
+        "provincia": "Bengo",
+        "valor_usd": 116.67,
+        "valor_aoa": 96836.1
+    },
+    {
+        "nome": "Luísa Correia Tavares",
+        "endereco": "Travessa do Sol, nº 464",
+        "cidade": "Ondjiva",
+        "provincia": "Malanje",
+        "valor_usd": 149.04,
+        "valor_aoa": 123703.2
+    },
+    {
+        "nome": "Paulo Batista Silva",
+        "endereco": "Avenida Marginal, nº 371",
+        "cidade": "Ondjiva",
+        "provincia": "Bié",
+        "valor_usd": 163.7,
+        "valor_aoa": 135871.0
+    },
+    {
+        "nome": "Marta de Souza Fernandes",
+        "endereco": "Travessa do Sol, nº 48",
+        "cidade": "Sumbe",
+        "provincia": "Bengo",
+        "valor_usd": 126.9,
+        "valor_aoa": 105327.0
+    },
+    {
+        "nome": "Francisco Bento Vicente",
+        "endereco": "Rua do Mercado, nº 399",
+        "cidade": "Luanda",
+        "provincia": "Huíla",
+        "valor_usd": 107.68,
+        "valor_aoa": 89374.4
+    },
+    {
+        "nome": "Alberto Simão Lima",
+        "endereco": "Rua dos Pioneiros, nº 597",
+        "cidade": "Saurimo",
+        "provincia": "Namibe",
+        "valor_usd": 140.03,
+        "valor_aoa": 116224.9
+    },
+    {
+        "nome": "Rui Francisco Correia",
+        "endereco": "Rua do Mercado, nº 441",
+        "cidade": "N'dalatando",
+        "provincia": "Benguela",
+        "valor_usd": 174.72,
+        "valor_aoa": 145017.6
+    },
+    {
+        "nome": "Ana Joaquim Francisco",
+        "endereco": "Avenida da Paz, nº 658",
+        "cidade": "Caxito",
+        "provincia": "Luanda",
+        "valor_usd": 182.14,
+        "valor_aoa": 151176.2
+    },
+    {
+        "nome": "Raquel Tavares Fernandes",
+        "endereco": "Avenida Marginal, nº 732",
+        "cidade": "Malanje",
+        "provincia": "Namibe",
+        "valor_usd": 132.72,
+        "valor_aoa": 110157.6
+    },
+    {
+        "nome": "Sara Monteiro Lima",
+        "endereco": "Bairro Popular, nº 993",
+        "cidade": "Caxito",
+        "provincia": "Huambo",
+        "valor_usd": 141.36,
+        "valor_aoa": 117328.8
+    },
+    {
+        "nome": "Nelson Lima Gomes",
+        "endereco": "Bairro Popular, nº 943",
+        "cidade": "Caxito",
+        "provincia": "Cuanza Sul",
+        "valor_usd": 132.02,
+        "valor_aoa": 109576.6
+    },
+    {
+        "nome": "Nelson Lima Alberto",
+        "endereco": "Travessa do Sol, nº 534",
+        "cidade": "Saurimo",
+        "provincia": "Malanje",
+        "valor_usd": 155.71,
+        "valor_aoa": 129239.3
+    },
+    {
+        "nome": "Fátima Alves Alves",
+        "endereco": "Avenida Marginal, nº 405",
+        "cidade": "Huambo",
+        "provincia": "Uíge",
+        "valor_usd": 102.14,
+        "valor_aoa": 84776.2
+    },
+    {
+        "nome": "Sara Monteiro Lima",
+        "endereco": "Rua Nova, nº 427",
+        "cidade": "N'dalatando",
+        "provincia": "Cunene",
+        "valor_usd": 150.0,
+        "valor_aoa": 124500.0
+    },
+    {
+        "nome": "Joaquim Dias Gomes",
+        "endereco": "Rua dos Pioneiros, nº 644",
+        "cidade": "Saurimo",
+        "provincia": "Cuanza Sul",
+        "valor_usd": 136.04,
+        "valor_aoa": 112913.2
+    },
+    {
+        "nome": "Raquel Tavares Monteiro",
+        "endereco": "Travessa do Sol, nº 978",
+        "cidade": "Cuito",
+        "provincia": "Huíla",
+        "valor_usd": 169.78,
+        "valor_aoa": 140917.4
+    },
+    {
+        "nome": "Nelson Lima Correia",
+        "endereco": "Bairro Central, nº 247",
+        "cidade": "Uíge",
+        "provincia": "Cuanza Norte",
+        "valor_usd": 128.82,
+        "valor_aoa": 106920.6
+    },
+    {
+        "nome": "Joaquim Dias Vicente",
+        "endereco": "Rua do Mercado, nº 377",
+        "cidade": "Lobito",
+        "provincia": "Luanda",
+        "valor_usd": 138.23,
+        "valor_aoa": 114730.9
+    },
+    {
+        "nome": "Sérgio Miguel Paulo",
+        "endereco": "Travessa do Sol, nº 419",
+        "cidade": "Namibe",
+        "provincia": "Uíge",
+        "valor_usd": 194.87,
+        "valor_aoa": 161742.1
+    },
+    {
+        "nome": "Rui Francisco Simão",
+        "endereco": "Avenida Marginal, nº 228",
+        "cidade": "N'dalatando",
+        "provincia": "Bengo",
+        "valor_usd": 195.31,
+        "valor_aoa": 162107.3
+    },
+    {
+        "nome": "Francisco Bento Bento",
+        "endereco": "Rua Nova, nº 269",
+        "cidade": "Luanda",
+        "provincia": "Benguela",
+        "valor_usd": 165.6,
+        "valor_aoa": 137448.0
+    },
+    {
+        "nome": "Paulo Batista Fernandes",
+        "endereco": "Rua dos Pioneiros, nº 247",
+        "cidade": "N'dalatando",
+        "provincia": "Uíge",
+        "valor_usd": 148.04,
+        "valor_aoa": 122873.2
+    },
+    {
+        "nome": "Luísa Correia Domingos",
+        "endereco": "Rua dos Pioneiros, nº 71",
+        "cidade": "Caxito",
+        "provincia": "Malanje",
+        "valor_usd": 106.64,
+        "valor_aoa": 88511.2
+    },
+    {
+        "nome": "Nelson Lima António",
+        "endereco": "Bairro Central, nº 995",
+        "cidade": "Ondjiva",
+        "provincia": "Zaire",
+        "valor_usd": 115.16,
+        "valor_aoa": 95582.8
+    },
+    {
+        "nome": "Marta de Souza Silva",
+        "endereco": "Rua Principal, nº 902",
+        "cidade": "Luanda",
+        "provincia": "Bengo",
+        "valor_usd": 156.37,
+        "valor_aoa": 129787.1
+    },
+    {
+        "nome": "Luísa Correia Joaquim",
+        "endereco": "Rua do Mercado, nº 30",
+        "cidade": "Benguela",
+        "provincia": "Cuanza Sul",
+        "valor_usd": 118.11,
+        "valor_aoa": 98031.3
+    },
+    {
+        "nome": "Alberto Simão Gomes",
+        "endereco": "Avenida Marginal, nº 875",
+        "cidade": "N'dalatando",
+        "provincia": "Bié",
+        "valor_usd": 114.23,
+        "valor_aoa": 94810.9
+    },
+    {
+        "nome": "Raquel Tavares Bento",
+        "endereco": "Avenida Marginal, nº 244",
+        "cidade": "Uíge",
+        "provincia": "Cunene",
+        "valor_usd": 138.08,
+        "valor_aoa": 114606.4
+    },
+    {
+        "nome": "Sérgio Miguel Mendes",
+        "endereco": "Rua Nova, nº 376",
+        "cidade": "Luanda",
+        "provincia": "Huíla",
+        "valor_usd": 131.03,
+        "valor_aoa": 108754.9
+    },
+    {
+        "nome": "Francisco Bento Correia",
+        "endereco": "Rua do Mercado, nº 214",
+        "cidade": "Huambo",
+        "provincia": "Namibe",
+        "valor_usd": 149.23,
+        "valor_aoa": 123860.9
+    },
+    {
+        "nome": "Nelson Lima Domingos",
+        "endereco": "Rua Principal, nº 361",
+        "cidade": "Luanda",
+        "provincia": "Malanje",
+        "valor_usd": 112.19,
+        "valor_aoa": 93117.7
+    },
+    {
+        "nome": "Raquel Tavares Alves",
+        "endereco": "Travessa do Sol, nº 441",
+        "cidade": "Uíge",
+        "provincia": "Uíge",
+        "valor_usd": 191.06,
+        "valor_aoa": 158579.8
+    },
+    {
+        "nome": "José Silva Miguel",
+        "endereco": "Avenida Marginal, nº 491",
+        "cidade": "Saurimo",
+        "provincia": "Cuanza Sul",
+        "valor_usd": 140.23,
+        "valor_aoa": 116390.9
+    },
+    {
+        "nome": "Carlos Alberto Fernandes",
+        "endereco": "Bairro Popular, nº 684",
+        "cidade": "Sumbe",
+        "provincia": "Lunda Sul",
+        "valor_usd": 179.59,
+        "valor_aoa": 149059.7
+    },
+    {
+        "nome": "Luísa Correia Mendes",
+        "endereco": "Rua das Acácias, nº 691",
+        "cidade": "Malanje",
+        "provincia": "Namibe",
+        "valor_usd": 171.54,
+        "valor_aoa": 142378.2
+    },
+    {
+        "nome": "André Vicente Ramos",
+        "endereco": "Avenida Marginal, nº 473",
+        "cidade": "Cuito",
+        "provincia": "Bengo",
+        "valor_usd": 123.42,
+        "valor_aoa": 102438.6
+    },
+    {
+        "nome": "Pedro Domingos Francisco",
+        "endereco": "Avenida da Paz, nº 145",
+        "cidade": "Huambo",
+        "provincia": "Benguela",
+        "valor_usd": 106.66,
+        "valor_aoa": 88527.8
+    },
+    {
+        "nome": "Maria Fernandes Miguel",
+        "endereco": "Rua Principal, nº 584",
+        "cidade": "Lobito",
+        "provincia": "Namibe",
+        "valor_usd": 111.59,
+        "valor_aoa": 92619.7
+    },
+    {
+        "nome": "Sérgio Miguel Dias",
+        "endereco": "Bairro Central, nº 936",
+        "cidade": "Lobito",
+        "provincia": "Cuanza Sul",
+        "valor_usd": 123.72,
+        "valor_aoa": 102687.6
+    },
+    {
+        "nome": "Pedro Domingos Simão",
+        "endereco": "Avenida da Paz, nº 87",
+        "cidade": "Ondjiva",
+        "provincia": "Uíge",
+        "valor_usd": 167.84,
+        "valor_aoa": 139307.2
+    },
+    {
+        "nome": "Maria Fernandes Correia",
+        "endereco": "Travessa do Sol, nº 843",
+        "cidade": "Menongue",
+        "provincia": "Lunda Sul",
+        "valor_usd": 114.28,
+        "valor_aoa": 94852.4
+    },
+    {
+        "nome": "Carlos Alberto Gomes",
+        "endereco": "Rua dos Pioneiros, nº 865",
+        "cidade": "Luanda",
+        "provincia": "Lunda Sul",
+        "valor_usd": 118.87,
+        "valor_aoa": 98662.1
+    },
+    {
+        "nome": "Manuel António Bento",
+        "endereco": "Avenida Marginal, nº 877",
+        "cidade": "Luanda",
+        "provincia": "Zaire",
+        "valor_usd": 163.3,
+        "valor_aoa": 135539.0
+    },
+    {
+        "nome": "Maria Fernandes Dias",
+        "endereco": "Avenida da Paz, nº 972",
+        "cidade": "Namibe",
+        "provincia": "Lunda Sul",
+        "valor_usd": 193.61,
+        "valor_aoa": 160696.3
+    },
+    {
+        "nome": "Rui Francisco Alves",
+        "endereco": "Rua Nova, nº 53",
+        "cidade": "Malanje",
+        "provincia": "Cuanza Sul",
+        "valor_usd": 129.65,
+        "valor_aoa": 107609.5
+    },
+    {
+        "nome": "Sara Monteiro Silva",
+        "endereco": "Travessa do Comércio, nº 936",
+        "cidade": "Caxito",
+        "provincia": "Cuanza Norte",
+        "valor_usd": 163.6,
+        "valor_aoa": 135788.0
+    },
+    {
+        "nome": "André Vicente Fernandes",
+        "endereco": "Rua das Acácias, nº 59",
+        "cidade": "Sumbe",
+        "provincia": "Namibe",
+        "valor_usd": 139.03,
+        "valor_aoa": 115394.9
+    },
+    {
+        "nome": "Marta de Souza Miguel",
+        "endereco": "Avenida da Paz, nº 729",
+        "cidade": "Caxito",
+        "provincia": "Huíla",
+        "valor_usd": 118.49,
+        "valor_aoa": 98346.7
+    },
+    {
+        "nome": "Joaquim Dias Alberto",
+        "endereco": "Bairro Central, nº 313",
+        "cidade": "Lubango",
+        "provincia": "Cuanza Sul",
+        "valor_usd": 184.06,
+        "valor_aoa": 152769.8
+    },
+    {
+        "nome": "Pedro Domingos Gomes",
+        "endereco": "Rua dos Pioneiros, nº 956",
+        "cidade": "Cuito",
+        "provincia": "Huíla",
+        "valor_usd": 163.53,
+        "valor_aoa": 135729.9
+    },
+    {
+        "nome": "André Vicente Paulo",
+        "endereco": "Avenida da Paz, nº 154",
+        "cidade": "Huambo",
+        "provincia": "Uíge",
+        "valor_usd": 108.72,
+        "valor_aoa": 90237.6
+    },
+    {
+        "nome": "Sérgio Miguel Ramos",
+        "endereco": "Rua Nova, nº 192",
+        "cidade": "Menongue",
+        "provincia": "Cuanza Norte",
+        "valor_usd": 173.5,
+        "valor_aoa": 144005.0
+    },
+    {
+        "nome": "Sara Monteiro Francisco",
+        "endereco": "Rua das Acácias, nº 77",
+        "cidade": "Malanje",
+        "provincia": "Cunene",
+        "valor_usd": 131.42,
+        "valor_aoa": 109078.6
+    },
+    {
+        "nome": "Marta de Souza Francisco",
+        "endereco": "Bairro Popular, nº 597",
+        "cidade": "Malanje",
+        "provincia": "Bengo",
+        "valor_usd": 183.2,
+        "valor_aoa": 152056.0
+    },
+    {
+        "nome": "Luísa Correia Ramos",
+        "endereco": "Rua Principal, nº 391",
+        "cidade": "N'dalatando",
+        "provincia": "Cunene",
+        "valor_usd": 104.63,
+        "valor_aoa": 86842.9
+    },
+    {
+        "nome": "José Silva Joaquim",
+        "endereco": "Travessa do Comércio, nº 889",
+        "cidade": "Namibe",
+        "provincia": "Huíla",
+        "valor_usd": 165.19,
+        "valor_aoa": 137107.7
+    },
+    {
+        "nome": "Pedro Domingos Domingos",
+        "endereco": "Bairro Popular, nº 548",
+        "cidade": "Malanje",
+        "provincia": "Malanje",
+        "valor_usd": 191.08,
+        "valor_aoa": 158596.4
+    },
+    {
+        "nome": "Pedro Domingos Simão",
+        "endereco": "Rua do Mercado, nº 385",
+        "cidade": "Saurimo",
+        "provincia": "Namibe",
+        "valor_usd": 138.41,
+        "valor_aoa": 114880.3
+    },
+    {
+        "nome": "Ana Joaquim Vicente",
+        "endereco": "Bairro Central, nº 547",
+        "cidade": "Saurimo",
+        "provincia": "Benguela",
+        "valor_usd": 100.91,
+        "valor_aoa": 83755.3
+    },
+    {
+        "nome": "Marta de Souza Lima",
+        "endereco": "Bairro Central, nº 428",
+        "cidade": "Cuito",
+        "provincia": "Luanda",
+        "valor_usd": 173.69,
+        "valor_aoa": 144162.7
+    },
+    {
+        "nome": "Isabel Mendes Domingos",
+        "endereco": "Avenida Marginal, nº 386",
+        "cidade": "Cuito",
+        "provincia": "Malanje",
+        "valor_usd": 166.5,
+        "valor_aoa": 138195.0
+    },
+    {
+        "nome": "Fernanda Cardoso Monteiro",
+        "endereco": "Travessa do Sol, nº 381",
+        "cidade": "Cuito",
+        "provincia": "Bengo",
+        "valor_usd": 186.34,
+        "valor_aoa": 154662.2
+    },
+    {
+        "nome": "Joaquim Dias Cardoso",
+        "endereco": "Rua dos Pioneiros, nº 694",
+        "cidade": "Namibe",
+        "provincia": "Huambo",
+        "valor_usd": 132.36,
+        "valor_aoa": 109858.8
+    },
+    {
+        "nome": "Francisco Bento Alberto",
+        "endereco": "Rua Nova, nº 977",
+        "cidade": "Lubango",
+        "provincia": "Namibe",
+        "valor_usd": 188.11,
+        "valor_aoa": 156131.3
+    },
+    {
+        "nome": "Pedro Domingos Batista",
+        "endereco": "Avenida Marginal, nº 951",
+        "cidade": "Uíge",
+        "provincia": "Malanje",
+        "valor_usd": 147.91,
+        "valor_aoa": 122765.3
+    },
+    {
+        "nome": "Raquel Tavares Joaquim",
+        "endereco": "Rua Nova, nº 718",
+        "cidade": "Luanda",
+        "provincia": "Bengo",
+        "valor_usd": 190.93,
+        "valor_aoa": 158471.9
+    },
+    {
+        "nome": "Sara Monteiro Vicente",
+        "endereco": "Avenida Marginal, nº 378",
+        "cidade": "Huambo",
+        "provincia": "Namibe",
+        "valor_usd": 131.25,
+        "valor_aoa": 108937.5
+    },
+    {
+        "nome": "Luísa Correia Monteiro",
+        "endereco": "Travessa do Comércio, nº 573",
+        "cidade": "Namibe",
+        "provincia": "Luanda",
+        "valor_usd": 116.64,
+        "valor_aoa": 96811.2
+    },
+    {
+        "nome": "Carlos Alberto Mendes",
+        "endereco": "Rua dos Pioneiros, nº 485",
+        "cidade": "Sumbe",
+        "provincia": "Uíge",
+        "valor_usd": 175.07,
+        "valor_aoa": 145308.1
+    },
+    {
+        "nome": "Carlos Alberto Monteiro",
+        "endereco": "Rua do Mercado, nº 395",
+        "cidade": "Benguela",
+        "provincia": "Cuanza Sul",
+        "valor_usd": 136.12,
+        "valor_aoa": 112979.6
+    },
+    {
+        "nome": "Marta de Souza Gomes",
+        "endereco": "Travessa do Comércio, nº 310",
+        "cidade": "Menongue",
+        "provincia": "Huíla",
+        "valor_usd": 108.1,
+        "valor_aoa": 89723.0
+    },
+    {
+        "nome": "Luísa Correia Joaquim",
+        "endereco": "Rua dos Pioneiros, nº 487",
+        "cidade": "Menongue",
+        "provincia": "Zaire",
+        "valor_usd": 179.82,
+        "valor_aoa": 149250.6
+    },
+    {
+        "nome": "Luísa Correia Tavares",
+        "endereco": "Avenida Marginal, nº 98",
+        "cidade": "Caxito",
+        "provincia": "Zaire",
+        "valor_usd": 136.88,
+        "valor_aoa": 113610.4
+    },
+    {
+        "nome": "Luísa Correia Miguel",
+        "endereco": "Rua do Mercado, nº 731",
+        "cidade": "N'dalatando",
+        "provincia": "Huíla",
+        "valor_usd": 157.44,
+        "valor_aoa": 130675.2
+    },
+    {
+        "nome": "Manuel António Monteiro",
+        "endereco": "Bairro Popular, nº 862",
+        "cidade": "Cuito",
+        "provincia": "Huíla",
+        "valor_usd": 153.84,
+        "valor_aoa": 127687.2
+    }
+]
